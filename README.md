@@ -1,0 +1,1 @@
+# static-shoping-responsive-website
